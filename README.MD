@@ -4,8 +4,5 @@
 
 Description:
 
-A to-do list where we can add or remove items. 
+Add or remove items. 
 
-How to Run:
-
-Type the item you want to add and then hit enter. Remove an item by clicking on it.
